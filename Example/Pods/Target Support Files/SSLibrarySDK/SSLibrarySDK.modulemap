@@ -1,0 +1,6 @@
+framework module SSLibrarySDK {
+  umbrella header "SSLibrarySDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
